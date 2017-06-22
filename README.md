@@ -1,3 +1,44 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Michel de Bree
 
 Full stack software developer with 20+ years of experience in complex and  dynamic IT landscapes, who thrives on working on challenging agile projects as part of a multi-disciplinary team.
@@ -8,28 +49,42 @@ My experience mainly involves customer facing internet channels that integrate r
 
 I prefer to work in a motivated, multi-disciplinary, self-directing team with a clear focus on the business case and in close collaboration with the stakeholders. 
 
-## Personal Information
 
+
+
+
+## Personal Information
 ![Photo](photo.jpg)
 
 Year of birth: 1972
 
+
 Residence: The Hague / The Netherlands
 
+
+
+
 Languages: Dutch (native), English (fluent), French (intermediate), German (beginner)
+
+
+
+Telephone: +31 681 473 884
+
+
+
 
 E-mail: [michel@micheldebree.nl](mailto:michel@micheldebree.nl)
 
 LinkedIn: [nl.linkedin.com/in/micheldebree](https://nl.linkedin.com/in/micheldebree)
 
+
 ## Education
+__1991__-__1998__ Technical Computer Science, Software Engineering, [__Delft University of Technology__](http://www.tudelft.nl), _Delft, Netherlands_
 
-1991-1998 Technical Computer Science, Software Engineering, [_Delft University of Technology_](http://www.tudelft.nl), Netherlands
+__1984__-__1991__ VWO beta, [__Het Vlietland College__](), _Leiden, Netherlands_
 
-1984-1991 VWO beta, [_Het Vlietland College_](http://www.vlietlandcollege.nl), _Leiden_, Netherlands
 
 ## Technical Skills
-
 ##### Backend
 Java Enterprise Edition (JEE), JBoss, Apache Tomcat, IBM Websphere, WSO2, Graylog, HAProxy, Redhat Enterprise Linux, Amazon EC2, Windows, SOAP Webservices, REST, JSON, SAML2, HL7v3, XML, SMTP, LDAP, SSL, HTTP(S)
 
@@ -40,31 +95,36 @@ HTML5, CSS, Javascript, jQuery, AngularJS, REST, JSON, XSLT, JSP, Spring MVC, JS
 PostgreSQL, MySQL, SQLServer, Oracle
 
 ##### Frameworks & Tooling
-Hibernate, Spring, Node.js, Log4J, JPA, Quartz, Mockito, CXF, SLF4J, JUnit, EhCache, Dozer, Hibernate Validator, Velocity, Hystrix, IntelliJ, Eclipse, SoapUI
+Hibernate, Spring, NodeJS, Log4J, JPA, Quartz, Mockito, CXF, SLF4J, JUnit, EhCache, Dozer, Hibernate Validator, Velocity, Hystrix, IntelliJ, Eclipse, SoapUI
 
 ##### Continuous Delivery & Integration
-Maven, Git, Hudson/Jenkins, Sonar, Unit Testing, Subversion,  TeamCity, Artifactory, Nexus, Stash, JIRA (incl. Agile), Confluence, Selenium
+Maven, Git, Hudson/Jenkins, Sonar, Unit Testing, Subversion,  TeamCity, Artifactory, Nexus, Stash, JIRA, Confluence, Selenium
 
 ##### Project & Design
 Scrum, DevOps, Agile, Object Oriented Analysis and Design (OOAD), Unified Modeling Language (UML), Service Oriented Architecture (SOA), Domain-Driven Design (DDD), Test driven development (TDD), API design, security, OWASP, scalability, performance and design.
 
+
 ## Working Experience
+__2014__-__present__: Freelance Senior Java EE Developer, [__micheldebree.nl__](<http://www.micheldebree.nl>)
 
-2014-present: Freelance Senior Java EE Developer, [_micheldebree.nl_](http://www.micheldebree.nl)
+Year | Project  | Customer
+---- | -------- | --------
+__2015__-__present__ | Standaard Platform | [__Ministerie van Infrastructuur en Milieu__](https://www.rijksoverheid.nl/ministeries/ministerie-van-infrastructuur-en-milieu) _(government)_
+__2014__-__2015__ | Internet Banking authentication | [__ING__](https://www.ing.nl) _(banking)_
 
-2005-2014: Senior Software Engineer, _E-ID Internet Strategies_ (now  [DearNova](http://dearnova.nl))
+__2005__-__2014__: Senior Software Engineer, [__E-ID Internet Strategies (now DearNova)__](<http://dearnova.nl>)
 
-2003-2005: Software Engineer, _Imtech ICT_ (now [Axians](http://www.axians.com))
+__2003__-__2005__: Software Engineer, [__Imtech ICT (now Axians)__](<http://www.axians.com>)
 
-2001-2003: Software Engineer, _PaC_ (now [Axians](http://www.axians.com))
+__2001__-__2003__: Software Engineer, [__PaC (now Axians)__](<http://www.axians.com>)
 
-1994-2001: Developer, [_Leids Universitair Medisch Centrum_](http://www.lumc.nl)
+__1994__-__2001__: Developer, [__Leids Universitair Medisch Centrum__](<http://www.lumc.nl>)
+
 
 ## 2014 to present: Freelance Projects
-
 ### Generic enterprise application platform
 
-__2015-present__ @ __Dutch Ministry of Infrastructure and Environment__ _(government)_
+__2015__-__present__ @ [__Dutch Ministry of Infrastructure and Environment__](https://www.rijksoverheid.nl/ministeries/ministerie-van-infrastructuur-en-milieu) _(government)_
 
 Development, in a Scrum team, of an automatically provisioned enterprise application platform. This generic platform is based on the Java platform and open source components. It is scalable, reliable and secure according to industry standards.
 A new instance of the platform, consisting of several virtual Linux servers in a cloud environment, is provisioned fully automatic from scratch and works out-of-the box. A central governance solution is included for automatic deployment through the DTAP cycle and central configuration and management of the business applications that are hosted on the platform.
@@ -77,11 +137,11 @@ A new instance of the platform, consisting of several virtual Linux servers in a
 > Scrum, DevOps, JIRA, Confluence, Git,
 Maven, Nexus, Jenkins, Python, Liquibase, Sonar, WSO2 Governance Registry, Selenium, JMeter, JUnit, SOAPUI, Mockito
 JSF, Angular.JS, JAX-RS, REST, JSON, WSO2 API Manager,
-JEE, JBoss, CDI, Hibernate, JAX-WS, SOAP, Webservices, WSO2 ESB, SSL, SAML2, WSO2 Identity Server, OpenLDAP, PostgreSQL, ElasticSearch, MongoDB, Graylog, HAProxy, Squid, Apache, RHEL/CentOS 7, Amazon EC2, OpenStack, Ruby, Vagrant
+Java Enterprise Edition (JEE), JBoss, CDI, Hibernate, JAX-WS, SOAP, Webservices, WSO2 ESB, SSL, SAML2, WSO2 Identity Server, OpenLDAP, PostgreSQL, ElasticSearch, MongoDB, Graylog, HAProxy, Squid, Apache, RHEL/CentOS 7, Amazon EC2, OpenStack, Ruby, Vagrant
 
 ### Customer Authentication ING Internet Banking
 
-__2014-2015__ @ __ING__ _(banking)_
+__2014__-__2015__ @ [__ING__](https://www.ing.nl) _(banking)_
 
 Working in a DevOps Scrum team on internet banking applications and services involving customer authentication. 
 
@@ -91,15 +151,15 @@ Working in a DevOps Scrum team on internet banking applications and services inv
 #### Techniques
 > Scrum, DevOps, Java EE, Spring, Maven, AngularJS, REST, JSON, Linux, Websphere, Tomcat, Oracle, Jenkins, Nolio, GIT, Stash, JIRA, Confluence, Sonar, Nexus, Mockito, Protractor, Selenium, Docker, Virtualize, JUnit, Eclipse, IntelliJ, Fortify, SoapUI
 
-## 2005-2014: Projects for E-ID internet strategies
 
+## 2005-2014: Projects for E-ID internet strategies
 ### New online platform DELA
 
-__2014__ @ __DELA__ _(insurance)_
+__2014__-__2014__ @ [__DELA__](https://www.dela.nl) _(insurance)_
 
 Software architecture & design, lead development as part of a big redesign project for a future-ready, mobile first online customer platform. The website won "Best Website 2015" in the insurance category.
 
-> Keywords: Scrum, REST, Javascript, HTML5, CSS3, Sitecore, Responsive design, ASP.NET MVC5, DDD, OOAD, C#, Twitter Bootstrap, Security, Scalability, Git, TeamCity, JIRA, Confluence, Entity Framework, Fluent Validations, Razor, NUnit, Moq, Artifactory.
+> __Keywords__:  Scrum, REST, Javascript, HTML5, CSS3, Sitecore, ASP.NET MVC5, DDD, OOAD, C#, Twitter Bootstrap, Security, Scalability, Git, TeamCity, JIRA, Confluence, Entity Framework, Fluent Validations, Razor, NUnit, Moq, Artifactory.
 
 ### KPN Glassfibre order tracking
 
@@ -173,13 +233,13 @@ Integration, development, architecture consultancy and business requirements con
 
 > Keywords: .NET, SAML2, DigiD, C#, ASP.NET MVC, SOAP-WS, HL7v3.
 
-### Customer portal for the National Electronic Patient Dossier (Prototype)
+### Customer portal for the National Electronic Patient Dossier
 
-__2009__ @ __Nictiz__ _(semi-government)_
+__2009-2010__ @ __CIBG__ _(government)_
 
-Software architecture, development, business requirement consultancy for a proof-of-concept for the customer portal of the National Electronic Patient Dossier (EPD). Built as a working prototype.
+Integration, development, architecture consultancy and business requirements consultancy for the customer portal of the National Electronic Patient Dossier (EPD). Because of the sensitivity of medical information, the demands for availability, reliability and security are very high. This concerns the online channel where civilians authenticate with their national electronic id (DigiD) and have immediate access to the information stored about them in de National Electronic Patient Dossier.
 
-> Keywords: Java, Spring, SOAP-WS, XML, CXF, JAXB, SAML2, HL7, Velocity, FOP.
+> Keywords: .NET, SAML2, DigiD, C#, ASP.NET MVC, SOAP-WS, HL7v3.
 
 ### Internal scheduling application
 
@@ -199,7 +259,6 @@ Development and maintenance of the integration layer between backoffice and the 
 
 
 ## 2001-2005: Projects for Imtech ICT / PaC
-
 ### Search engine for educational material
 
 __2005__ @ __Kennisnet__ _(education)_
@@ -207,7 +266,6 @@ __2005__ @ __Kennisnet__ _(education)_
 Development of a new version of the DaVindi educational search engine for primary education students.
 
 > Keywords: J2EE, Lucene
-
 
 ### Internal resource planning application
 
