@@ -70,11 +70,11 @@ Scrum, DevOps, Agile, Object Oriented Analysis and Design (OOAD), Unified Modeli
 
 1994-2001: Ontwikkelaar, [_Leids Universitair Medisch Centrum_](http://www.lumc.nl)
 
-## Projecten - micheldebree.nl
+## Projecten als freelancer
 
 ### Generiek enterprise applicatie platform
 
-_2015-2016_ _Ministerie van Infrastructuur en Milieu_
+_2015-2018_ _Ministerie van Infrastructuur en Milieu_
 
 > Als senior software development engineer in een Scrum DevOps team werkzaam aan de nieuwbouw van een generiek enterprise applicatie platform. Het platform kan in verschillende varianten volautomatisch en reproduceerbaar worden ingericht in een cloud omgeving. Het platform bevat alle componenten om enterprise applicaties op een schaalbare, veilige en betrouwbare manier te kunnen faciliteren. Daarnaast is het voorzien van governance functionaliteit voor centrale configuratie, identity management en automatisch uitrollen van applicaties.
 

@@ -1,11 +1,10 @@
 ################
 # Docker Image #
 ################
-
 NAMESPACE=micheldebree
 ARTIFACT=cv
-VERSION=0.1.0
-IMAGE=$(NAMESPACE)/$(ARTIFACT):$(VERSION)
+VERSION=1.0.0
+IMAGE=micheldebree/cv
 
 build: image
 	docker run --rm -v "$$PWD":/home $(IMAGE)
@@ -22,20 +21,27 @@ debug: image
 # Build targets #
 #################
 
-FILENAME_EN=CV-Michel_de_Bree.EN
-FILENAME_NL=CV-Michel_de_Bree.NL
+.PHONY: all
+.PRECIOUS: Photo.jpg
 
-%.docx: %.md styles.docx
-	pandoc -s --smart --reference-docx=styles.docx -o $@ $< 
+FILENAME_BASE=CV-Michel_de_Bree
 
-%.pdf: %.md
-	pandoc -s --smart -o $@ $<
+%.docx: src/%.md src/Template.docx Photo.jpg
+	pandoc -s --smart --reference-docx=src/Template.docx -o $@ $< 
 
-all: README.md $(FILENAME_EN).docx $(FILENAME_EN).pdf $(FILENAME_NL).docx $(FILENAME_NL).pdf
+%.pdf: src/%.md src/Template.tex Photo.jpg
+	pandoc $< -s --smart --template=src/Template.tex --variable fontsize=11pt -o $@
 
-README.md: $(FILENAME_EN).md
+%.jpg: src/%.jpg
 	cp $< $@
 
-lint:
-	mdl . || true
+all: README.md $(FILENAME_BASE).EN.docx $(FILENAME_BASE).EN.pdf $(FILENAME_BASE).NL.docx $(FILENAME_BASE).NL.pdf
 
+README.md: src/$(FILENAME_BASE).EN.md
+	cp $< $@
+
+clean:
+	rm -f *.docx
+	rm -f *.pdf
+	rm -f *.jpg
+	rm -f *.md
